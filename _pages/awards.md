@@ -29,9 +29,9 @@ author_profile: true
     <td class="tg-0pky" colspan="3">
       <b>Reconfigurable Embedded Devices Using Reinforcement Learning to Develop Action-Policies - WINNER</b><br>  
       Alwyn Burger, David King and Gregor Schiele<br><br>
-      <b>Building Reusable Repertoires for Stochastic Self-* Planners</b><br>
+      <b>Building Reusable Repertoires for Stochastic Self-* Planners - NOMINEE</b><br>
       Cody Kinneer, Rijnard van Tonder, David Garlan and Claire Le Goues<br><br>		
-      <b>Understanding Uncertainty in Self-adaptive Systems</b><br>   
+      <b>Understanding Uncertainty in Self-adaptive Systems - NOMINEE</b><br>   
       Radu Calinescu, Raffaela Mirandola, Diego Perez-Palacin and Danny Weyns
     </td>
   </tr>
