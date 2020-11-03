@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Best Paper Awards"
+title: "Karsten Schwan Best Paper Award"
 permalink: /awards/
 author_profile: true
 ---
@@ -26,8 +26,7 @@ author_profile: true
     <td class="tg-lboi">25%</td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">
-      Karsten Schwan Best Paper Award Candidates</span><br> 
+    <td class="tg-0pky" colspan="3">
       <b>Reconfigurable Embedded Devices Using Reinforcement Learning to Develop Action-Policies - WINNER</b><br>  
       Alwyn Burger, David King and Gregor Schiele<br><br>
       <b>Building Reusable Repertoires for Stochastic Self-* Planners</b><br>
