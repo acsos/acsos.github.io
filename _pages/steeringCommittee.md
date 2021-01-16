@@ -7,13 +7,13 @@ author_profile: true
 
 [Jean Botev](https://wwwfr.uni.lu/recherche/fstc/computer_science_and_communications_research_unit/membres/jean_botev)  
  *Université du Luxembourg, Luxembourg*
-
-[Betty Cheng](http://www.cse.msu.edu/~chengb/)  
- *Michigan State University, USA*
  
 [Songqing Chen](https://cs.gmu.edu/~sqchen/) **(IEEE TC)**  
  *George Mason University*
 
+[Betty Cheng](http://www.cse.msu.edu/~chengb/)  
+ *Michigan State University, USA*
+ 
 [Ada Diaconescu](http://adadiaconescu.there-you-are.com/) **(Steering Committee Co-Chair)**  
  *Telecom Paris, France*
 
@@ -31,6 +31,9 @@ author_profile: true
 
 [Manish Parashar](https://www.cs.rutgers.edu/faculty/manish-parashar)  
  *Rutgers University, USA*
+ 
+[Wolfgang Reif](https://www.informatik.uni-augsburg.de/de/lehrstuehle/swt/se/staff/reif/)  
+ *University of Augsburg*
 
 [Naveen Sharma](https://www.rit.edu/directory/nxsvse-naveen-sharma)  
  *Rochester Institute of Technology, USA*
@@ -41,5 +44,3 @@ author_profile: true
 [Mirko Viroli](https://www.unibo.it/sitoweb/mirko.viroli)  
  *Università di Bologna, Italy*
 
-[Wolfgang Reif](https://www.informatik.uni-augsburg.de/de/lehrstuehle/swt/se/staff/reif/)  
- *University of Augsburg*
