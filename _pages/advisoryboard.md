@@ -5,8 +5,8 @@ permalink: /advisory/
 author_profile: true
 ---
 
-[Ozalp Babaoglu](http://www.cs.unibo.it/babaoglu/)   
-*University of Bologna, Italy*
+<!-- [Ozalp Babaoglu](http://www.cs.unibo.it/babaoglu/)   
+*University of Bologna, Italy* -->
 
 [Jake Beal](https://jakebeal.github.io/)   
  *Raytheon BBN Technologies and University of Iowa, Iowa City, USA*
