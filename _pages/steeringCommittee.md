@@ -29,8 +29,8 @@ author_profile: true
 [Arif Merchant](https://ai.google/research/people/author57990/)  
  *Google, USA* 
 
-[Manish Parashar](https://www.cs.rutgers.edu/faculty/manish-parashar)  
- *Rutgers University, USA*
+[Manish Parashar](http://manishparashar.org/)  
+ *University of Utah, USA*
  
 [Wolfgang Reif](https://www.informatik.uni-augsburg.de/de/lehrstuehle/swt/se/staff/reif/)  
  *University of Augsburg*
