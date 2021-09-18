@@ -27,12 +27,56 @@ author_profile: true
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3">
-      <b>Reconfigurable Embedded Devices Using Reinforcement Learning to Develop Action-Policies - WINNER</b><br>  
+      <b><a href="https://ieeexplore.ieee.org/document/9196411">Reconfigurable Embedded Devices Using Reinforcement Learning to Develop Action-Policies</a></b><br>  
       Alwyn Burger, David King and Gregor Schiele<br><br>
       <b>Building Reusable Repertoires for Stochastic Self-* Planners - NOMINEE</b><br>
       Cody Kinneer, Rijnard van Tonder, David Garlan and Claire Le Goues<br><br>		
       <b>Understanding Uncertainty in Self-adaptive Systems - NOMINEE</b><br>   
       Radu Calinescu, Raffaela Mirandola, Diego Perez-Palacin and Danny Weyns
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><a href="https://icac2019.cs.umu.se/">ICAC 2019</a></td>
+    <td class="tg-lboi">Umeå, Sweden</td>
+    <td class="tg-lboi">30%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="3">
+      <b><a href="https://par.nsf.gov/servlets/purl/10108417">CoPPer: Soft Real-time Application Performance Using Hardware Power Capping</a></b><br>  
+      Connor Imes, Huazhe Zhang, Kevin Zhao and Henry Hoffmann<br><br>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><a href="http://icac2018.informatik.uni-wuerzburg.de/">ICAC 2018</a></td>
+    <td class="tg-lboi">Trento, Italy</td>
+    <td class="tg-lboi">30%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="3">
+      <b><a href="https://lucris.lub.lu.se/ws/files/51135731/tommi_icac_2018_final.pdf">Cloud Application Predictability through Integrated Load-Balancing and Service Time</a></b><br>  
+      Tommi Nylander, Marcus Thelander Andrén, Karl-Erik Årzén and Martina Maggio<br><br>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">ICAC 2017</td>
+    <td class="tg-lboi">Columbus, Ohio, USA</td>
+    <td class="tg-lboi">19%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="3">
+      <b><a href="https://ieeexplore.ieee.org/abstract/document/8005328/">Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures</a></b><br>  
+      Sona Ghahremani, Holger Giese and Thomas Vogel<br><br>
+    </td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">ICAC 2016</td>
+    <td class="tg-lboi">Würzburg, Germany</td>
+    <td class="tg-lboi">34%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="3">
+      <b><a href="https://faculty.cs.gwu.edu/timwood/papers/16-ICAC-netkv.pdf">NetKV: Scalable, Self-Managing, Load Balancing as a Network Function</a></b><br>  
+      Wei Zhang, Timothy Wood, and Jinho Hwang<br><br>
     </td>
   </tr>
 </table></div>
