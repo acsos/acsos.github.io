@@ -31,10 +31,6 @@ Since 2016, the autonomic computing community has named its best paper award aft
     <td class="tg-0pky" colspan="3">
       <b><a href="https://ieeexplore.ieee.org/document/9196411">Reconfigurable Embedded Devices Using Reinforcement Learning to Develop Action-Policies</a></b><br>  
       Alwyn Burger, David King and Gregor Schiele<br><br>
-      <b>Building Reusable Repertoires for Stochastic Self-* Planners - NOMINEE</b><br>
-      Cody Kinneer, Rijnard van Tonder, David Garlan and Claire Le Goues<br><br>		
-      <b>Understanding Uncertainty in Self-adaptive Systems - NOMINEE</b><br>   
-      Radu Calinescu, Raffaela Mirandola, Diego Perez-Palacin and Danny Weyns
     </td>
   </tr>
   <tr>
