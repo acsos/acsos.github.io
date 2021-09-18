@@ -14,6 +14,8 @@ author_profile: true
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 
+Since 2016, the autonomic computing community has named its best paper award after Karsten: Karsten Schwan Award for Best Paper.  This tradition began at ICAC and continues at ACSOS.  Below is a list of the winners of the Karsten Schwan Award for Best Paper. 
+
 <div class="tg-wrap"><table class="tg">
   <tr>
     <th class="tg-fu7v">Conference</th>
@@ -69,7 +71,7 @@ author_profile: true
     </td>
   </tr>
   <tr>
-    <td class="tg-lboi">ICAC 2016</td>
+    <td class="tg-lboi"><a href="https://icac2016.uni-wuerzburg.de/">ICAC 2016</a></td>
     <td class="tg-lboi">Würzburg, Germany</td>
     <td class="tg-lboi">34%</td>
   </tr>
@@ -80,3 +82,15 @@ author_profile: true
     </td>
   </tr>
 </table></div>
+
+Karsten Schwan was an computing pioneer.  He spearheaded research on distributed computing, high performance computing (see <a href="http://www.hpdc.org/2019/awards/best-paper-award/">HPDC</a>), autonomic computing (see <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7573105">ACSOS</a>), and translation research that impact industry.  He was also a staunch supporter of broadening participation and access to computing.
+
+Karsten was an early and influential voice in the field of Autonomic Computing.  His 2005 paper spotlighted streaming applications before the rise of "big data," sparking a research trend that continues today.  His 2009 paper vManage spotlighted the need for lightweight virtualization in support of autonomic computing, again predating a key trend that ultimately brought about Docker, network virtualization and other critical cloud infrastructure.  These papers reflect Karsten's vision for autonomic computing and his committement to engage the world's greatest researchers in realizing the vision.   He inculcated in all of us the idea that the community's mission was first and foremost to be a venue for the highest-quality work on self-managing  systems. To Karsten, maintaining a high standard did *NOT* mean continuing to do what we did last year.  He was always innovating.
+
+More about Karsten Schwan's life and research can be found at the following links: 
+
+<a href="https://en.wikipedia.org/wiki/Karsten_Schwan">Karsten Schwan's Wikipedia Page</a>
+
+<a href="https://www.cc.gatech.edu/fac/Karsten.Schwan/">Karsten's Research Website maintained by Georgia Tech</a>
+
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7573105">The Memorial Published in ICAC 2016</a>
