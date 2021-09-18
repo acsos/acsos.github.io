@@ -85,6 +85,10 @@ Since 2016, the autonomic computing community has named its best paper award aft
 
 Karsten Schwan was an computing pioneer.  He spearheaded research on distributed computing, high performance computing (see <a href="http://www.hpdc.org/2019/awards/best-paper-award/">HPDC</a>), autonomic computing (see <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7573105">ACSOS</a>), and translation research that impact industry.  He was also a staunch supporter of broadening participation and access to computing.
 
+![Picture of Karsten Schwan](https://raw.githubusercontent.com/acsos/acsos.github.io/master/images/schwan1.jpg "Karsten Schwan")
+
+![Picture of Karsten Schwan](https://raw.githubusercontent.com/acsos/acsos.github.io/master/images/schwan2.jpg "Karsten Schwan")
+
 Karsten was an early and influential voice in the field of Autonomic Computing.  His 2005 paper spotlighted streaming applications before the rise of "big data," sparking a research trend that continues today.  His 2009 paper vManage spotlighted the need for lightweight virtualization in support of autonomic computing, again predating a key trend that ultimately brought about Docker, network virtualization and other critical cloud infrastructure.  These papers reflect Karsten's vision for autonomic computing and his committement to engage the world's greatest researchers in realizing the vision.   He inculcated in all of us the idea that the community's mission was first and foremost to be a venue for the highest-quality work on self-managing  systems. To Karsten, maintaining a high standard did *NOT* mean continuing to do what we did last year.  He was always innovating.
 
 More about Karsten Schwan's life and research can be found at the following links: 
