@@ -34,14 +34,6 @@ author_profile: true
     <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Tarek El-Ghazawi, George Washington University, United States<br>Jean Botev,
 University of Luxembourg, Luxembourg<br>Christopher Stewart, The Ohio State University, United States<br><br><span style="font-weight:bold">Program Chairs:</span><br>Vana Kalogeraki, Athens University of Economics and Business, Greece<br>Danilo Pianini, University of Bologna, Italy<br></td>
   </tr>
-</table></div>
-
-<div class="tg-wrap"><table class="tg">
-  <tr>
-    <th class="tg-fu7v">Conference</th>
-    <th class="tg-fu7v">Location</th>
-    <th class="tg-fu7v">Acceptance Rate</th>
-  </tr>
   <tr>
     <td class="tg-lboi"><a href="https://conf.researchr.org/home/acsos-2020">ACSOS 2020</a></td>
     <td class="tg-lboi">Virtual Conference</td>
