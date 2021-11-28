@@ -41,7 +41,7 @@ Since 2016, the autonomic computing community has named its best paper award aft
   <tr>
     <td class="tg-0pky" colspan="3">
       <b><a href="https://ieeexplore.ieee.org/document/9196411">Reconfigurable Embedded Devices Using Reinforcement Learning to Develop Action-Policies</a></b><br>  
-      Alwyn Burger, David King and Gregor Schiele<br><br>
+      Alwyn Burger, David King, and Gregor Schiele<br><br>
     </td>
   </tr>
   <tr>
@@ -52,7 +52,7 @@ Since 2016, the autonomic computing community has named its best paper award aft
   <tr>
     <td class="tg-0pky" colspan="3">
       <b><a href="https://par.nsf.gov/servlets/purl/10108417">CoPPer: Soft Real-time Application Performance Using Hardware Power Capping</a></b><br>  
-      Connor Imes, Huazhe Zhang, Kevin Zhao and Henry Hoffmann<br><br>
+      Connor Imes, Huazhe Zhang, Kevin Zhao, and Henry Hoffmann<br><br>
     </td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ Since 2016, the autonomic computing community has named its best paper award aft
   <tr>
     <td class="tg-0pky" colspan="3">
       <b><a href="https://lucris.lub.lu.se/ws/files/51135731/tommi_icac_2018_final.pdf">Cloud Application Predictability through Integrated Load-Balancing and Service Time</a></b><br>  
-      Tommi Nylander, Marcus Thelander Andrén, Karl-Erik Årzén and Martina Maggio<br><br>
+      Tommi Nylander, Marcus Thelander Andrén, Karl-Erik Årzén, and Martina Maggio<br><br>
     </td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ Since 2016, the autonomic computing community has named its best paper award aft
   <tr>
     <td class="tg-0pky" colspan="3">
       <b><a href="https://ieeexplore.ieee.org/abstract/document/8005328/">Efficient Utility-Driven Self-Healing Employing Adaptation Rules for Large Dynamic Architectures</a></b><br>  
-      Sona Ghahremani, Holger Giese and Thomas Vogel<br><br>
+      Sona Ghahremani, Holger Giese, and Thomas Vogel<br><br>
     </td>
   </tr>
   <tr>
