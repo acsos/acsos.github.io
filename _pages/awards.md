@@ -23,6 +23,17 @@ Since 2016, the autonomic computing community has named its best paper award aft
     <th class="tg-fu7v">Acceptance Rate</th>
   </tr>
   <tr>
+    <td class="tg-lboi"><a href="https://conf.researchr.org/home/acsos-2021">ACSOS 2021</a></td>
+    <td class="tg-lboi">Virtual Conference</td>
+    <td class="tg-lboi">25%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="3">
+      <b><a href="">Swarmalators with Stochastic Coupling and Memory</a></b><br>  
+      Udo Schilcher, Jorge F. Schmidt, Arke Vogell, and Christian Bettstetter<br><br>
+    </td>
+  </tr>
+  <tr>
     <td class="tg-lboi"><a href="https://conf.researchr.org/home/acsos-2020">ACSOS 2020</a></td>
     <td class="tg-lboi">Virtual Conference</td>
     <td class="tg-lboi">25%</td>
