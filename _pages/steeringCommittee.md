@@ -23,7 +23,7 @@ author_profile: true
 [Lukas Esterle](http://www.lukasesterle.com/)  
  *Aarhus University, Denmark* 
 
-[Jeff Kephart](https://researcher.watson.ibm.com/researcher/view.php?person=us-kephart)
+[Jeff Kephart](https://researcher.watson.ibm.com/researcher/view.php?person=us-kephart)   
  *Thomas J. Watson Research Center, Hawthorne, NY, USA*
  
 [Samuel Kounev](http://go.uni-wuerzburg.de/kounev) **(Steering Committee Co-Chair)**  
