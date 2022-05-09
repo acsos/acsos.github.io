@@ -35,6 +35,18 @@ author_profile: true
 [Robert Laddaga](http://people.csail.mit.edu/rladdaga/)  
  *Massachusetts Institute of Technology, Cambridge , MA, USA*
  
+[Arif Merchant](https://ai.google/research/people/author57990/)  
+ *Google, USA*
+
+[Manish Parashar](http://manishparashar.org/)    
+ *University of Utah, USA*
+
+[Wolfgang Reif](https://www.informatik.uni-augsburg.de/de/lehrstuehle/swt/se/staff/reif/)  
+ *University of Augsburg*
+
+[Naveen Sharma](https://www.rit.edu/directory/nxsvse-naveen-sharma)  
+ *Rochester Institute of Technology, USA*
+ 
 [Hartmut Schmeck](https://www.kastel.kit.edu/schmeck.php)  
  *Karlsruher Institut für Technologie, Karlsruhe, Germany*
 
@@ -47,5 +59,5 @@ author_profile: true
 [Vladimir Vlassov](https://people.kth.se/~vladv/)  
  *KTH Royal Institute of Technology, Stockholm, Sweden*
 
-[Xiaoyun Zhu]()
- 
+[Xiaoyun Zhu](https://www.linkedin.com/in/xiaoyunzhu/)  
+ *NetApp, USA* 
