@@ -26,11 +26,11 @@ author_profile: true
 [Jeff Kephart](https://researcher.watson.ibm.com/researcher/view.php?person=us-kephart)   
  *Thomas J. Watson Research Center, Hawthorne, NY, USA*
  
-[Samuel Kounev](http://go.uni-wuerzburg.de/kounev) **(Steering Committee Co-Chair)**  
+[Samuel Kounev](http://go.uni-wuerzburg.de/kounev)  
  *University of Würzburg, Germany*
 
-[Peter Lewis](https://www2.aston.ac.uk/eas/staff/a-z/dr-peter-lewis)  
- *Aston University Birmingham, UK*
+[Peter Lewis](https://www2.aston.ac.uk/eas/staff/a-z/dr-peter-lewis)  **(Steering Committee Co-Chair)**   
+ *Ontario Tech University, Canada*
 
 [Christopher Stewart](https://web.cse.ohio-state.edu/~stewart.962/)  
  *The Ohio State University, USA* 
