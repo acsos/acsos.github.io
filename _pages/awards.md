@@ -29,7 +29,7 @@ Since 2016, the autonomic computing community has named its best paper award aft
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3">
-      <b><a href="">Swarmalators with Stochastic Coupling and Memory</a></b><br>  
+      <b><a href="https://doi.org/10.1109/ACSOS52086.2021.00028">Swarmalators with Stochastic Coupling and Memory</a></b><br>  
       Udo Schilcher, Jorge F. Schmidt, Arke Vogell, and Christian Bettstetter<br><br>
     </td>
   </tr>
