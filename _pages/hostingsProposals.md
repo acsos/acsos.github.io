@@ -11,7 +11,7 @@ We are currently inviting bids for hosting the 2024 and 2025 editions of the con
 
 ## Bids to Host ACSOS 2024
 
-Bids for hosting the 2024 edition should be submitted by 31st August 2023. Bids should be submitted via email to the Steering Committee Co-Chairs, [Peter Lewis](peter.lewis@ontariotechu.ca) and [Ada Diaconescu](ada.diaconescu@telecom-paris.fr). You are also welcome and encouraged to email the Co-Chairs for an informal discussion prior to submitting your bid.
+Bids for hosting the 2024 edition should be submitted by 31st August 2023. Bids should be submitted via email to the Steering Committee Co-Chairs, [Peter Lewis](mailto:peter.lewis@ontariotechu.ca) and [Ada Diaconescu](mailto:ada.diaconescu@telecom-paris.fr). You are also welcome and encouraged to email the Co-Chairs for an informal discussion prior to submitting your bid.
 
 Bids are eligible if they are made by individuals or small groups from the ACSOS research community. On request, the main organisers must be able to supply evidence of support from their employer (e.g., a university), especially if that employer will also act as the hosting institution. Bids from meeting professionals will not be considered.
 
