@@ -25,6 +25,22 @@ author_profile: true
     <th class="tg-fu7v">Location</th>
     <th class="tg-fu7v">Acceptance Rate</th>
   </tr>
+   <tr>
+    <td class="tg-lboi"><a href="https://conf.researchr.org/home/acsos-2023">ACSOS 2023</a></td>
+    <td class="tg-lboi">Toronto, Canada</td>
+    <td class="tg-lboi">23%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Peter R. Lewis, Ontario Tech University, Canada<br>Marin Litoiu, York University, Canada<br><br><span style="font-weight:bold">Program Chairs:</span><br>Ivana Dusparic, Trinity College Dublin, Ireland<br>Barry Porter, Lancaster University, United Kingdom<br></td>
+  </tr>
+   <tr>
+    <td class="tg-lboi"><a href="https://conf.researchr.org/home/acsos-2022">ACSOS 2022</a></td>
+    <td class="tg-lboi">Virtual Conference</td>
+    <td class="tg-lboi">25%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Kirstie Bellman, Topcy House Consulting, United States<br>Sven Tomforde, Christian-Albrechts-Universität zu Kiel, Germany<br><br><span style="font-weight:bold">Program Chairs:</span><br>Elisabetta Di Nitto, Politecnico di Milano, Italy<br>Ilias Gerostathopoulos, Vrije Universiteit Amsterdam, Netherlands<br></td>
+  </tr>
   <tr>
     <td class="tg-lboi"><a href="https://conf.researchr.org/home/acsos-2021">ACSOS 2021</a></td>
     <td class="tg-lboi">Virtual Conference</td>
