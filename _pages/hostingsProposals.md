@@ -24,7 +24,7 @@ The world is increasingly embracing autonomous systems: in robotics, manufacturi
 
 ACSOS is particularly proud of its long-standing academic breadth and innovative industry contributions, and regularly features work from computational biologists through to operating systems researchers – united by the common theme of autonomous systems.
 
-Now in its 4th edition, ACSOS was founded in 2020 as a merger of the IEEE International Conference on Autonomic Computing (ICAC) and the IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO). As a community, we are proud of our more than 15-year history of being a welcoming, open-minded, interdisciplinary, and scientifically rigorous research community.
+Now in its 5th edition, ACSOS was founded in 2020 as a merger of the IEEE International Conference on Autonomic Computing (ICAC) and the IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO). As a community, we are proud of our more than 15-year history of being a welcoming, open-minded, interdisciplinary, and scientifically rigorous research community.
 
 
 ACSOS traditionally encompasses a 5-day programme and usually takes place in late September/early October. Two days are typically reserved for a lively workshop program, as well as and tutorials and other satellite events. At least 4 parallel sessions need to be accommodated on these days. The main conference is typically held in single-track format, to allow the whole community to share and explore diverse ideas. ACSOS typically also includes keynotes, panels, a Doctoral Symposium, the 'ACSOS In Practice' track, Artefact track, as well as posters and demos. Additional facilities might be required as exhibition spaces for sponsors.
