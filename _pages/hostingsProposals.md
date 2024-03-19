@@ -5,7 +5,7 @@ permalink: /hosting/
 author_profile: true
 ---
 
-The steering committee of the International Conference on Autonomic and Self-Organising Systems (ACSOS) solicits bids to host future editions of the conference. The main website of the conference series can be found at <https://acsos.org/>, and the 2023 and 2024 editions, held in Toronto, Canada, and Aarhus, Denmark, respectively, are available at https://2023.acsos.org/ and https://2024.acsos.org/.
+The steering committee of the International Conference on Autonomic and Self-Organising Systems (ACSOS) solicits bids to host future editions of the conference. The main website of the conference series can be found at <https://acsos.org/>, and the 2023 and 2024 editions, held in Toronto, Canada, and Aarhus, Denmark, respectively, are available at <https://2023.acsos.org/> and <https://2024.acsos.org/>.
 
 We are currently inviting bids for hosting the 2025, 2026, and 2027 editions of the conference!
 
