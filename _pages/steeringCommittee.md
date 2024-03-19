@@ -32,11 +32,11 @@ author_profile: true
 [Peter Lewis](https://petelewis.com/)  **(Steering Committee Co-Chair)**   
  *Ontario Tech University, Canada*
 
+[Marin Litoiu](https://marinlitoiu.info.yorku.ca)
+ *York University, Canada*
+
 [Christopher Stewart](https://web.cse.ohio-state.edu/~stewart.962/)  
  *The Ohio State University, USA* 
- 
-[Jan-Philipp Steghöfer](https://www.chalmers.se/en/staff/Pages/jan-philipp-steghofer.aspx)  
- *Chalmers University of Technology and the University of Gothenburg, Sweden*
 
 [Mirko Viroli](https://www.unibo.it/sitoweb/mirko.viroli)  
  *Università di Bologna, Italy*
