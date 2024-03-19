@@ -29,7 +29,7 @@ author_profile: true
 [Samuel Kounev](http://go.uni-wuerzburg.de/kounev)  
  *University of Würzburg, Germany*
 
-[Peter Lewis](https://www2.aston.ac.uk/eas/staff/a-z/dr-peter-lewis)  **(Steering Committee Co-Chair)**   
+[Peter Lewis](https://petelewis.com/)  **(Steering Committee Co-Chair)**   
  *Ontario Tech University, Canada*
 
 [Christopher Stewart](https://web.cse.ohio-state.edu/~stewart.962/)  
