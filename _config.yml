@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "ACSOS"
-  avatar           : "avatar.jpg"
+  avatar           : "acsos-logo.jpg"
   bio              : ""
   location         : "Aarhus, Denmark"
   acsos_site       : "https://2024.acsos.org/"
