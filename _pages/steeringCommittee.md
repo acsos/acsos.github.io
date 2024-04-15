@@ -41,8 +41,5 @@ author_profile: true
 [Mirko Viroli](https://www.unibo.it/sitoweb/mirko.viroli)  
  *Università di Bologna, Italy*
  
-[Danny Weyns](https://people.cs.kuleuven.be/~danny.weyns/)  
- *KU Leuven, Belgium*
- 
 [Timothy Wood](http://faculty.cs.gwu.edu/timwood/)  
  *George Washington University, USA* 
