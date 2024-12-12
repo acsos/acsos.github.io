@@ -26,6 +26,14 @@ author_profile: true
     <th class="tg-fu7v">Acceptance Rate</th>
   </tr>
    <tr>
+    <td class="tg-lboi"><a href="https://conf.researchr.org/home/acsos-2024">ACSOS 2024</a></td>
+    <td class="tg-lboi">Aarhus, Denmark</td>
+    <td class="tg-lboi">23%</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Lukas Esterle, Aarshus University, Denmark<br>Alessandro V. Papadopoulos, Mälardalen University, Sweden<br><br><span style="font-weight:bold">Program Chairs:</span><br>Payam Zahadat, IT University of Copenhagen, Denmark<br>Christian Becker, University of Stuttgart, Germany<br></td>
+  </tr>
+   <tr>
     <td class="tg-lboi"><a href="https://conf.researchr.org/home/acsos-2023">ACSOS 2023</a></td>
     <td class="tg-lboi">Toronto, Canada</td>
     <td class="tg-lboi">23%</td>
