@@ -28,7 +28,7 @@ author_profile: true
    <tr>
     <td class="tg-lboi"><a href="https://conf.researchr.org/home/acsos-2024">ACSOS 2024</a></td>
     <td class="tg-lboi">Aarhus, Denmark</td>
-    <td class="tg-lboi">23%</td>
+    <td class="tg-lboi">22%</td>
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Lukas Esterle, Aarshus University, Denmark<br>Alessandro V. Papadopoulos, Mälardalen University, Sweden<br><br><span style="font-weight:bold">Program Chairs:</span><br>Payam Zahadat, IT University of Copenhagen, Denmark<br>Christian Becker, University of Stuttgart, Germany<br></td>
