@@ -1,0 +1,76 @@
+/* Custom CSS to support unique elements generated for the ACSOS website on
+	Forty by HTML5 UP
+	Nathan Lloyd 6th November 2025
+*/
+
+
+/* To modify the div which holds general chair and program chair info in the prior series table */
+#series-chair-formatting {
+	
+
+}
+#series-chair-formatting ul {
+	list-style-type: none;
+	padding: 0; /* Remove default padding on list*/
+
+}
+
+/* To modify the "jump to award type" buttons on the awards page */
+
+#award-buttons a {
+	margin:0.3em;
+}
+#award-buttons {
+	padding:0;
+}
+
+/* Provided by L Esterle */
+#header .logo strong {
+    font-family: Audiowide;
+    letter-spacing: -0.1em;
+    -moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    -webkit-transition: background-color 0.2s
+ease-in-out, color 0.2s
+ease-in-out;
+    -ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+    transition: background-color 0.2s
+ease-in-out, color 0.2s
+ease-in-out;
+    background-color: #ffffff;
+    color: #242943;
+    display: inline-block;
+    line-height: 1.65em;
+    margin-right: 0.325em;
+    padding: 0 0.525em 0 0.375em;
+}
+
+/* Used to modify awards layout */
+/* When there is NO image → make the text full width */
+.spotlights section.no-image {
+  display: flex;
+  flex-direction: column;
+}
+
+.spotlights section.no-image .content {
+  width: 100%;
+  max-width: 100%;
+}
+
+.spotlights section.no-image .inner {
+  width: 100%;
+}
+
+/* audiowide-regular - latin */
+@font-face {
+  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+  font-family: 'Audiowide';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../fonts/audiowide-v22-latin-regular.woff2') format('woff2'); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+
+
+
+
+
